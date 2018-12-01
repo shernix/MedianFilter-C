@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "png.h": "c",
+        "rgb_filt.h": "c",
+        "*.tcc": "c",
+        "time.h": "c",
+        "omp.h": "c",
+        "array": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "initializer_list": "c"
+    }
+}
